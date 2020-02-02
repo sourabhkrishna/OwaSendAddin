@@ -1,0 +1,6 @@
+2020-01-23T05:50:34.367Z - info:   [33072] *** FOLDER: c:\GIT_Codes\OnSendAppointment\onsendaddin ***
+2020-01-23T05:50:34.370Z - info:   [33072] AzureReposVSCode/1.161.0 (VSCode 1.41.1; Windows_NT 10.0.18362; Node 12.4.0)
+2020-01-23T05:51:20.802Z - error:  [33072] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
+2020-01-23T06:04:38.450Z - info:   [33072] *** FOLDER: c:\GIT_Codes\OnSendAppointment\onsendaddin ***
+2020-01-23T06:04:38.453Z - info:   [33072] AzureReposVSCode/1.161.0 (VSCode 1.41.1; Windows_NT 10.0.18362; Node 12.4.0)
+2020-01-23T06:04:45.456Z - error:  [33072] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
